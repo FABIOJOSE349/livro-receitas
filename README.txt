@@ -1,5 +1,6 @@
-<h1>Livro de Receitas</h1>
+Livro de Receitas
 
-<h4>Olá, bem vindo ao meus livro de receitas!</h4>
+Olá, bem vindo ao meus livro de receitas!
 
 - Strogonoff de frango
+- Pavê
